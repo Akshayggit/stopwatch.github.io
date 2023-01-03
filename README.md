@@ -12,18 +12,18 @@ As we click on the start button stopwatch will get activated and  when we click 
 
 **Features :-**
  
--Start Timer -> 
+*Start Timer ->* 
 On click of the start button, start the timer.
 If the timer is 0 start from the beginning else start from wherever last stopped.
 
-*Stop Timer ->
+*Stop Timer ->*
 Stop timer once clicked on the stop button.
 
-+Reset Timer->
+*Reset Timer->*
 On click of reset stop the watch (if already started) and set timer as 0.
 
   
-**Project Link :-
+**Project Link :-**
        To use this Stopwatch click on the link 
                       https://akshayggit.github.io/stopwatch.github.io/ 
                     to see this stopwatch live and play with it simply :)
