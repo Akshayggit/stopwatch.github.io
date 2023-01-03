@@ -28,4 +28,4 @@ On click of reset stop the watch (if already started) and set timer as 0.
                       https://akshayggit.github.io/stopwatch.github.io/ 
                     to see this stopwatch live and play with it simply :)
 
-![Stoopwatc](https://user-images.githubusercontent.com/121675141/210346541-4b26a573-8a6e-43ba-9b36-344dc993f975.png)
+![Stoopwatc](https://user-images.githubusercontent.com/121675141/210346541-4b26a573-8a6e-43ba-9b36-344dc993f975.png) 
