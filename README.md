@@ -10,6 +10,12 @@
 
                          3. As we click on the start button stopwatch will get activated and  when we click on the stop button Stopwatch countdown gets stopped and when we click on the reset button the Stopwatch time will reset.
 
+***Here is my stopwatch image and below i provided link for this.***
+
+
+![Stoopwatc](https://user-images.githubusercontent.com/121675141/210346541-4b26a573-8a6e-43ba-9b36-344dc993f975.png)
+
+
 **Features :-**
  
 * Start Timer -> 
@@ -32,4 +38,4 @@
                       https://akshayggit.github.io/stopwatch.github.io/ 
                     and see this stopwatch live and play with it simply :)
 
-![Stoopwatc](https://user-images.githubusercontent.com/121675141/210346541-4b26a573-8a6e-43ba-9b36-344dc993f975.png) 
+ 
